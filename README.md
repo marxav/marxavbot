@@ -1,2 +1,2 @@
 # MarxavBot
-Proposition de bot pour modifier certaines lettres phonétiques. 
+[marxav_bot.ipynb](marxav_bot.ipynb) : proposition de bot pour modifier certaines lettres phonétiques. 
